@@ -1,8 +1,5 @@
 # NumPy Notes
 
-Numpy Essentials: Quick Reference.
--👉 [View in NBViewer](https://nbviewer.org/github/Shiva-teja-chary-andhoju/Numpy_Notes/blob/main/numpy.ipynb)
-
 - [Numpy Official Documentation & User Guide](https://numpy.org/)
 
 
